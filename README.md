@@ -1,2 +1,2 @@
 # neuralNetwork
-Custom implementation of aneural network
+Custom implementation of a neural network
